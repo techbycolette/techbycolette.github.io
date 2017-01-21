@@ -1,6 +1,8 @@
-<link href='https://fonts.googleapis.com/css?family=Engagement' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Sacramento' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Delius' rel='stylesheet' type='text/css'>
 body {
-	background-color: rgb(119, 133, 144);
+	background-color: grey;
+	font-family: 'Delius', cursive;
 }
 header {
   text-align: center;
@@ -8,7 +10,7 @@ header {
   margin: 0px 0px 0px 0px;
   border: 7px solid white;
   border-radius: 20px;
-  font-family: 'Engagement', cursive;
+  font-family: 'Sacramento', cursive;
   background: url("images/texturebackground.jpg")
     }
 li {
@@ -20,9 +22,9 @@ a {
 }
 h1 {
 	text-align: center;
-  font-family: 'Engagement', cursive;
+  font-family: 'Sacramento', cursive;
 }
 img {
-  border: 7px solid white;
+  border: 7px solid rgb(59, 117, 167);
   border-radius: 20px;
 }

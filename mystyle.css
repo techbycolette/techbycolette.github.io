@@ -21,7 +21,7 @@ li {
 	font-family: 'Delius', cursive;
 }
 a {
-	color: rgb(59, 117, 167);
+	color: white;
 	font-family: 'Delius', cursive;
 }
 h1 {
@@ -31,5 +31,8 @@ h1 {
 img {
   border: 7px solid rgb(59, 117, 167);
   border-radius: 20px;
+}
+.header-links {
+	color: white;
 }
 	

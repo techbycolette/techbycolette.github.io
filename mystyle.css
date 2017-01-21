@@ -12,6 +12,9 @@ header {
   font-family: 'Sacramento', cursive;
   background: url("images/texturebackground.jpg")
     }
+iframe {
+	float: right;
+}
 li {
   display: inline;
   padding: 0px 10px 0px 10px;
@@ -29,3 +32,4 @@ img {
   border: 7px solid rgb(59, 117, 167);
   border-radius: 20px;
 }
+	

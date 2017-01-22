@@ -2,6 +2,7 @@
 <link href='https://fonts.googleapis.com/css?family=Delius' rel='stylesheet' type='text/css'>
 body {
 	background-color: grey;
+	font-family: 'Delius', cursive
 }
 header {
   text-align: center;
@@ -9,10 +10,13 @@ header {
   margin: 0px 0px 0px 0px;
   border: 7px solid rgb(59, 117, 167);
   border-radius: 20px;
-  font-family: 'Sacramento', cursive;
+  font-family:'Sacramento', cursive;
   background: url("images/croppedplantbackground.jpg")
     }
 iframe {
+}
+ul {
+	color: white;
 }
 li {
   display: inline;

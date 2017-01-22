@@ -1,9 +1,7 @@
-<head>
 <link href='https://fonts.googleapis.com/css?family=Sacramento' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Delius' rel='stylesheet' type='text/css'>
-</head>
 body {
-	background-color: grey;
+	background: rgb(119, 133, 144);
 	font-family: 'Delius', cursive
 }
 header {
@@ -13,7 +11,7 @@ header {
   border: 7px solid rgb(59, 117, 167);
   border-radius: 20px;
   font-family:'Sacramento', cursive;
-  background: url("images/croppedplantbackground.jpg")
+  background: url("images/blurbackground.jpg")
     }
 iframe {
 }

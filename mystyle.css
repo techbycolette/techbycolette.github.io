@@ -13,7 +13,6 @@ header {
   background: url("images/texturebackground.jpg")
     }
 iframe {
-	float: right;
 }
 li {
   display: inline;
@@ -32,7 +31,7 @@ img {
   border: 7px solid rgb(59, 117, 167);
   border-radius: 20px;
 }
-.header-links {
+.headlinks {
 	color: white;
 }
 p {

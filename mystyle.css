@@ -10,7 +10,7 @@ header {
   border: 7px solid rgb(59, 117, 167);
   border-radius: 20px;
   font-family: 'Sacramento', cursive;
-  background: url("images/texturebackground.jpg")
+  background: url("images/plantbackground.jpg")
     }
 iframe {
 }
@@ -38,6 +38,9 @@ p {
 	font-family: 'Delius', cursive;
 }
 h2 {
+	font-family: 'Delius', cursive;
+}
+table {
 	font-family: 'Delius', cursive;
 }
 	

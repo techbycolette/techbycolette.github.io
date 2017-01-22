@@ -1,6 +1,8 @@
 body {
 	background: rgb(119, 133, 144);
 	font-family: 'Delius', cursive
+	color: white;
+	
 }
 header {
   text-align: center;
@@ -22,7 +24,7 @@ li {
 	font-family: 'Delius', cursive;
 }
 a {
-	color: rgb(59, 117, 167);
+	color: white;
 	font-family: 'Delius', cursive;
 }
 h1 {

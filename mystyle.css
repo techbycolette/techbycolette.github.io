@@ -31,7 +31,7 @@ a {
 h1 {
 	text-align: center;
   font-family: 'Sacramento', cursive;
-	font-size: 60px;
+	font-size: 40px;
 	color: white;
 }
 img {
@@ -46,8 +46,28 @@ h2 {
 	font-family: 'Delius', cursive;
 	color: white;
 }
-table {
+table, tr {
 	font-family: 'Delius', cursive;
 	color: white;
+	border: 1px solid black;
+}
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+tr {
+	height: 50px;
+}
+td, th {
+	padding: 15px;
+	text-align: left;
+	border-bottom: 1px solid black;
+}
+tr:hover {background-color: #f5f5f5}
+th {
+	background-color: rgb(91, 190, 216);
+}
+.title {
+	font-size: 60px;
 }
 	

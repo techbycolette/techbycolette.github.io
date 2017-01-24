@@ -3,7 +3,7 @@ body {
 	font-family: 'Delius', cursive;
 	color: white;
 }
-p, ul, li, a, h2 {
+p, li, a, h2 {
 	padding: 0px 20px 0px 20px;
 }
 header {

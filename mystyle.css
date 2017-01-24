@@ -10,6 +10,9 @@ header {
   font-family:'Sacramento', cursive;
   background: url("images/croppedskybackground.jpg")
     }
+.header-links {
+	display: inline;
+}
 iframe {
 }
 ul {
@@ -18,8 +21,7 @@ ul {
 			color: white;
     }
 li {
-  display: inline;
-  padding: 0px 10px 0px 10px;
+  	padding: 0px 10px 0px 10px;
 	font-family: 'Delius', cursive;
 	color: white;
 }

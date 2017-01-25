@@ -21,8 +21,8 @@ header {
 	color: black;
 }
 iframe {
+	display: block;
     margin: auto;
-    width: 40%;
 }
 ul {
 			color: white;

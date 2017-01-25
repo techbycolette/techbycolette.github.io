@@ -42,7 +42,9 @@ h1 {
 img {
   border: 7px solid white;
   border-radius: 20px;
-	float: center;
+	display: block;
+    margin: auto;
+    width: 40%;
 }
 p {
 	font-family: 'Delius', cursive;

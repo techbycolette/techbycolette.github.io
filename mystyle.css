@@ -7,7 +7,7 @@ header {
   text-align: center;
   color: white;
   font-family:'Sacramento', cursive;
-  background: url("images/croppedskybackground.jpg")
+  background: url("images/croppedskybackground.jpg");
     }
 .header-links {
 	padding: 10px 0px 10px 0px;

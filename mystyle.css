@@ -59,7 +59,7 @@ h2 {
 table, tr {
 	font-family: 'Delius', cursive;
 	color: white;
-	border: 1px solid black;
+	border: 1px solid rgb(119, 133, 144);
 }
 table {
 	border-collapse: collapse;

@@ -74,6 +74,7 @@ td, th {
 }
 th {
 	background-color: rgb(91, 190, 216);
+	color: white;
 }
 td, tr {
 	color: black;

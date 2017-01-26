@@ -27,7 +27,8 @@ header {
 iframe {
 }
 ul {
-			color: white;
+	padding-left: 10px;
+	color: white;
     }
 li {
 	font-family: 'Delius', cursive;

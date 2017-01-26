@@ -8,9 +8,9 @@ header {
   color: white;
   font-family:'Sacramento', cursive;
   background: url("images/croppedskybackground.jpg");
-	margin-top: -5px;
+	margin-top: -5px!important;
 	position: relative;
-	padding: 0px;
+	padding: 0px!important;
     }
 .header-links {
 	padding: 10px 10px 10px 10px;

@@ -12,6 +12,9 @@ header {
   color: white;
   font-family:'Sacramento', cursive;
   background: url("images/croppedskybackground.jpg");
+	position: relative;
+	margin: -5px;
+	padding: 0;
     }
 .header-links {
 	padding: 10px 10px 10px 10px;

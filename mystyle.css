@@ -1,4 +1,7 @@
-* {margin: 0; padding: 0;}
+* {
+	margin: 0;
+	padding: 0;
+}
 body {
 	background: rgb(119, 133, 144);
 	font-family: 'Delius', cursive;

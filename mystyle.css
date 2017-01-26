@@ -38,6 +38,7 @@ a {
 	font-family: 'Delius', cursive;
 }
 h1 {
+	padding-top: 5px;
 	text-align: center;
   font-family: 'Sacramento', cursive;
 	font-size: 40px;
@@ -52,6 +53,7 @@ img {
     width: 40%;
 }
 p {
+	padding-top: 5px;
 	font-family: 'Delius', cursive;
 	color: white;
 	

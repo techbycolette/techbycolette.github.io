@@ -98,6 +98,7 @@ td, tr {
 }
 .title {
 	font-size: 60px;
-	padding: 10px 10px 10px 10px;
+	margin: 0;
+	padding: 0;
 }
 	

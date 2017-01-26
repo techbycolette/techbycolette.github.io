@@ -25,6 +25,7 @@ header {
 	color: black;
 }
 iframe {
+	float: center;
 }
 ul {
 			color: white;
